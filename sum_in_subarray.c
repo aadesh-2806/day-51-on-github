@@ -29,7 +29,7 @@ void main()
 			while(r<n)
 			{
 				s=0;
-				while(s<r+1)
+				while(s<r+1) 
 				{
 					b[z][s]=a[s];
 					s++;
